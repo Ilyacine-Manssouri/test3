@@ -1090,7 +1090,7 @@ if st.session_state.aff_content == True:
 
             # Espacement et affichage
             plt.tight_layout()
-            st.pyplot(fig, width="stretch")
+            st.pyplot(fig, use_container_width=True)
     if "process_done" in st.session_state and st.session_state.process_done == False:
         # 1️⃣ Récupérer les données du client sélectionné
         client_data = df.iloc[[client_index]]  # on garde la forme DataFrame
