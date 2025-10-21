@@ -1025,7 +1025,7 @@ if st.session_state.aff_content == True:
                     st.write(current_net_worth)
                 with col22222:
                     st.write("DH")
-        with st.container(border=True, width="stretch", height="stretch"):
+        with st.container(border=True):
             st.markdown(
                 f"""
                     <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
@@ -1090,8 +1090,7 @@ if st.session_state.aff_content == True:
 
             # Espacement et affichage
             plt.tight_layout()
-            with st.container(height=500, width=1000):
-                st.pyplot(fig, width="stretch")
+            st.pyplot(fig)
     if "process_done" in st.session_state and st.session_state.process_done == False:
         # 1️⃣ Récupérer les données du client sélectionné
         client_data = df.iloc[[client_index]]  # on garde la forme DataFrame
