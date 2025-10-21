@@ -664,6 +664,7 @@ st.session_state.switch_page_client = False
 st.session_state.setdefault("produit_page", None)
 st.session_state.setdefault("aff_content", False)
 st.session_state.setdefault("process_done", False)
+st.session_state.m_messages = []
 
 
 # --- NAVIGATION AUTOMATIQUE SI DÉCLENCHÉE ---
