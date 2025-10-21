@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn_extra.cluster import KMedoids
-from kneed import KneeLocator
 import joblib
 from scipy.spatial.distance import cityblock
 import os
