@@ -1090,7 +1090,7 @@ if st.session_state.aff_content == True:
 
             # Espacement et affichage
             plt.tight_layout()
-            with st.container(height=500, width=500):
+            with st.container(height=500, width=1000):
                 st.pyplot(fig, width="stretch")
     if "process_done" in st.session_state and st.session_state.process_done == False:
         # 1️⃣ Récupérer les données du client sélectionné
