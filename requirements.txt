@@ -2,9 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
-scikit-learn
 joblib
 scipy
 plotly
 openpyxl
-sklearn_extra
+sklearn
