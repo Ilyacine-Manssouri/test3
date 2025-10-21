@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 scikit-learn
-git+https://github.com/scikit-learn-contrib/scikit-learn-extra.gitkneed
+scikit-learn-extra-fixed
 joblib
 scipy
 plotly
