@@ -3,11 +3,9 @@ pandas
 numpy
 matplotlib
 scikit-learn
-scikit-learn-extra
+scikit-learn-extra==0.3.0
 kneed
 joblib
 scipy
 plotly
 openpyxl
-setuptools
-setuptools-distutils
