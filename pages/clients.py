@@ -1110,7 +1110,11 @@ if st.session_state.aff_content == True:
                 subprocess.run([f"{sys.executable}", ai_script_path], check=True)
                 st.session_state.process_done = True
         except subprocess.CalledProcessError as e:
-            st.error(f"Erreur lors de l'exécution du script AI : {e}")
+            st.session_state.error_msg = e
+    error_placeholder = st.empty()
+    if "error_msg" in st.session_state and st.session_state.error_msg:
+        error_placeholder.error(st.session_state.error_msg)
+        st.session_state.error_msg = ""  # reset après affichage
 
     with st.container(border=True, key="cont_clients"):
         st.markdown(
