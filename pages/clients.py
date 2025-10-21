@@ -1025,7 +1025,7 @@ if st.session_state.aff_content == True:
                     st.write(current_net_worth)
                 with col22222:
                     st.write("DH")
-        with st.container(border=True):
+        with st.container(border=True, width="stretch", height="stretch"):
             st.markdown(
                 f"""
                     <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
