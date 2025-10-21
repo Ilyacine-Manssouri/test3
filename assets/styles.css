@@ -28,131 +28,53 @@
     background-color: rgb(0, 136, 255);
     border: none; 
 }
-.st-key-btn_a_0 button p {
-    font-size: 11px;        
+[class^="st-key-btn_a"] button p,
+[class*=" st-key-btn_a"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_b_0 button p {
-    font-size: 11px;
+[class^="st-key-btn_b"] button p,
+[class*=" st-key-btn_b"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_a_1 button p {
-    font-size: 11px;        
+[class^="st-key-btn_c"] button p,
+[class*=" st-key-btn_c"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_b_1 button p {
-    font-size: 11px;
+[class^="st-key-btn_d"] button p,
+[class*=" st-key-btn_d"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_a_2 button p {
-    font-size: 11px;        
+[class^="st-key-btn_g"] button p,
+[class*=" st-key-btn_g"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_b_2 button p {
-    font-size: 11px;
+[class^="st-key-btn_e"] button p,
+[class*=" st-key-btn_e"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_a_3 button p {
-    font-size: 11px;        
+[class^="st-key-btn_x"] button p,
+[class*=" st-key-btn_x"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_b_3 button p {
-    font-size: 11px;
+[class^="st-key-btn_y"] button p,
+[class*=" st-key-btn_y"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_a_4 button p {
-    font-size: 11px;        
+[class^="st-key-btn_m"] button p,
+[class*=" st-key-btn_m"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_b_4 button p {
-    font-size: 11px;
+[class^="st-key-btn_n"] button p,
+[class*=" st-key-btn_n"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_c_0 button p {
-    font-size: 11px;        
+[class^="st-key-btn_f"] button p,
+[class*=" st-key-btn_f"] button p {
+    font-size: 11px !important;
 }
-.st-key-btn_d_0 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_1 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_1 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_2 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_2 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_3 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_3 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_4 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_4 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_0 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_0 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_1 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_1 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_2 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_2 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_3 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_3 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_4 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_4 button p {
-    font-size: 11px;
-}
-.st-key-btn_a_5 button p {
-    font-size: 11px;        
-}
-.st-key-btn_b_5 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_5 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_5 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_5 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_5 button p {
-    font-size: 11px;
-}
-.st-key-btn_a_6 button p {
-    font-size: 11px;        
-}
-.st-key-btn_b_6 button p {
-    font-size: 11px;
-}
-.st-key-btn_c_6 button p {
-    font-size: 11px;        
-}
-.st-key-btn_d_6 button p {
-    font-size: 11px;
-}
-.st-key-btn_e_6 button p {
-    font-size: 11px;        
-}
-.st-key-btn_g_6 button p {
-    font-size: 11px; 
+[class^="st-key-btn_k"] button p,
+[class*=" st-key-btn_k"] button p {
+    font-size: 11px !important;
 }
 .st-key-btn_6 button {
     background-color: blue;
