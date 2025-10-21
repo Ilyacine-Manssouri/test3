@@ -4,7 +4,7 @@ plotly
 openpyxl
 numpy==1.26.4
 scikit-learn==1.5.2
-scikit-learn-extra==0.4.1
+scikit-learn-extra==0.3.0
 pandas
 matplotlib
 joblib
