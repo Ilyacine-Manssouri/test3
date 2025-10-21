@@ -94,6 +94,8 @@ st.session_state.setdefault("client_index", "")
 st.session_state.setdefault("data_frame", None)
 st.session_state.setdefault("switch_page_client", False)
 st.session_state.setdefault("last_uploaded_file", "")
+st.session_state.m_messages = []
+
 
 # --- NAVIGATION AUTOMATIQUE SI DÉCLENCHÉE ---
 if st.session_state.switch_page_client:
