@@ -393,7 +393,6 @@ if os.path.exists(local_summary_path):
             for product, _, source in expert_recommendations:
                 print(f"- {product} ")
             results = [{"product": product} for product, _, _ in expert_recommendations]
-            print(results)
             expert_recommendations_output_file = (
                 "Data/results/expert_recommendations.json"
             )
