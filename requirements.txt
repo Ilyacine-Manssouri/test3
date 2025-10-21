@@ -7,3 +7,4 @@ joblib
 scipy
 plotly
 openpyxl
+sklearn_extra
