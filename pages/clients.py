@@ -369,16 +369,16 @@ Advantages_Pack_bancaire_étoffé = [
 
 Coût_estimatif_des_frais_Compte_chèque_en_DH = {
     "Frais d’ouverture": "0 DH",
-    "Frais mensuels": "20-50 DH",
+    "Frais mensuels": "20 - 50 DH",
     "Frais virements/chéquiers": "selon usage",
 }
 Coût_estimatif_des_frais_Compte_chèque_en_devises = {
     "Frais ouverture": "0 DH",
-    "Frais tenue de compte": "50-100 DH/mois",
+    "Frais tenue de compte": "50 - 100 DH/mois",
 }
 Coût_estimatif_des_frais_Compte_sur_carnet = {
     "Frais ouverture": "0 DH",
-    "Frais gestion": "0-10 DH/mois",
+    "Frais gestion": "0 - 10 DH/mois",
 }
 Coût_estimatif_des_frais_Compte_à_terme = {
     "Frais ouverture": "0 DH",
@@ -386,33 +386,33 @@ Coût_estimatif_des_frais_Compte_à_terme = {
     "Pénalités en cas de retrait anticipé": None,
 }
 Coût_estimatif_des_frais_Carte_basique = {
-    "Frais annuels": "100-200 DH",
-    "Retrait": "3-5 DH/transaction",
+    "Frais annuels": "100 - 200 DH",
+    "Retrait": "3 - 5 DH/transaction",
 }
 Coût_estimatif_des_frais_Carte_Visa = {
-    "Frais annuels": "200-400 DH",
-    "Retrait": "5-10 DH/transaction",
+    "Frais annuels": "200 - 400 DH",
+    "Retrait": "5 - 10 DH/transaction",
 }
 Coût_estimatif_des_frais_Carte_Visa_Premium = {
-    "Frais annuels": "600-1000 DH",
-    "Retrait": "5-10 DH/transaction",
+    "Frais annuels": "600 - 1000 DH",
+    "Retrait": "5 - 10 DH/transaction",
 }
 Coût_estimatif_des_frais_Carte_Visa_Elite = {
-    "Frais annuels": "1200-2000 DH",
-    "Retrait": "5-10 DH/transaction",
+    "Frais annuels": "1200 - 2000 DH",
+    "Retrait": "5 - 10 DH/transaction",
 }
 Coût_estimatif_des_frais_Carte_Visa_Infinite = {
-    "Frais annuels": "3000-5000 DH",
-    "Retrait": "5-10 DH/transaction",
+    "Frais annuels": "3000 - 5000 DH",
+    "Retrait": "5 - 10 DH/transaction",
 }
 Coût_estimatif_des_frais_Crédit_Immo_avec_garantie_hypothécaire = {
-    "Frais dossier": "1-2% montant",
-    "Assurance": "0,2-0,5%/an",
+    "Frais dossier": "1%" + " - 2% montant",
+    "Assurance": "0,2% - 0,5% /an",
     "Intérêts selon taux marché": None,
 }
 Coût_estimatif_des_frais_Crédit_Immo_avec_garantie_liquide = {
     "Frais dossier": "1%",
-    "Assurance": "0,2-0,5%/an",
+    "Assurance": "0,2% - 0,5% /an",
 }
 Coût_estimatif_des_frais_Crédit_Immo_avec_remboursement_in_fine = {
     "Frais dossier": "1%",
@@ -424,28 +424,35 @@ Coût_estimatif_des_frais_Crédit_Immo_subventionné = {
     "Intérêts réduits": None,
 }
 Coût_estimatif_des_frais_Crédit_à_la_consommation_non_affecté = {
-    "Frais dossier": "1-2%",
+    "Frais dossier": "1%" + " - 2%",
     "Taux 8-12% annuel": None,
 }
-Coût_estimatif_des_frais_Crédit_Auto = {"Frais dossier": "1-2%", "Taux": "7-10% annuel"}
+Coût_estimatif_des_frais_Crédit_Auto = {
+    "Frais dossier": "1%" + " - 2%",
+    "Taux": "7%" + " - 10% annuel",
+}
 Coût_estimatif_des_frais_Découvert = {
-    "Intérêts": "12-18%",
-    "Commissions": "50-100 DH/mois",
+    "Intérêts": "12%" + " - 18%",
+    "Commissions": "50 - 100 DH/mois",
 }
 Coût_estimatif_des_frais_Assurance_décès_invalidité_adossée_à_un_financement = {
-    "Prime": "0,2-0,5% du capital par an"
+    "Prime": "0,2% - 0,5% du capital par an"
 }
 Coût_estimatif_des_frais_Assurance_décès_toutes_causes = {
-    "Prime": "0,3-0,6% du capital par an"
+    "Prime": "0,3% - 0,6% du capital par an"
 }
-Coût_estimatif_des_frais_Multirisques_bâtiment = {"Prime": "0,1-0,5% valeur du bien/an"}
+Coût_estimatif_des_frais_Multirisques_bâtiment = {
+    "Prime": "0,1% - 0,5% valeur du bien/an"
+}
 Coût_estimatif_des_frais_Maladie_complémentaire = {
-    "Prime": "500-5000 DH/an selon couverture"
+    "Prime": "500 - 5000 DH/an selon couverture"
 }
-Coût_estimatif_des_frais_Retraite_complémentaire = {"Cotisation": "5-20% revenu annuel"}
+Coût_estimatif_des_frais_Retraite_complémentaire = {
+    "Cotisation": "5%" + " - 20% revenu annuel"
+}
 Coût_estimatif_des_frais_Retraite_complémentaire_en_UC = {
-    "Cotisation": "5-20% revenu",
-    "Frais gestion": "0,5-2%",
+    "Cotisation": "5%" + " - 20% revenu",
+    "Frais gestion": "0,5%" + " - 2%",
 }
 Coût_estimatif_des_frais_Épargne_Éducation = {
     "Versements flexibles": None,
@@ -456,23 +463,23 @@ Coût_estimatif_des_frais_Épargne_Logement = {
     "Intérêts selon taux marché",
 }
 Coût_estimatif_des_frais_OPCVM_monétaires = {
-    "Frais gestion": "0,2-1%",
+    "Frais gestion": "0,2%" + " - 1%",
     "Souscription minimale": "1000 DH",
 }
 Coût_estimatif_des_frais_OPCVM_obligataires = {
-    "Frais gestion": "0,3-1%",
+    "Frais gestion": "0,3%" + " - 1%",
     "Souscription minimale": "1000 DH",
 }
 Coût_estimatif_des_frais_OPCVM_diversifiés = {
-    "Frais gestion": "0,5-1,5%",
+    "Frais gestion": "0,5% - 1,5%",
     "Souscription minimale": "1000 DH",
 }
 Coût_estimatif_des_frais_OPCVM_actions = {
-    "Frais gestion": "0,5-2%",
+    "Frais gestion": "0,5%" + " - 2%",
     "Souscription minimale": "1000 DH",
 }
-Coût_estimatif_des_frais_Pack_bancaire_basique = {"Abonnement": "50-150 DH/mois"}
-Coût_estimatif_des_frais_Pack_bancaire_étoffé = {"Abonnement": "150-400 DH/mois"}
+Coût_estimatif_des_frais_Pack_bancaire_basique = {"Abonnement": "50 - 150 DH/mois"}
+Coût_estimatif_des_frais_Pack_bancaire_étoffé = {"Abonnement": "150 - 400 DH/mois"}
 
 Advantages = {
     "Produit - Compte chèque en DH": [
@@ -1166,68 +1173,73 @@ if st.session_state.aff_content == True:
                     if reco:
                         cat.append(categ)
                 i = 0
-                for ite in cat:
-                    if i % 2 == 0:
-                        cols = st.columns([1, 1])  # crée deux colonnes
-                        col_dict = {f"col{i}": cols[0], f"col{i+1}": cols[1]}
-                    with col_dict[f"col{i}"]:
-                        with st.container(border=True, height="stretch"):
+                ite_col1 = 0
+                ite_col2 = 0
+                cola1, colb1 = st.columns([1, 1])
+                if len(cat) % 2 == 0:
+                    ite_col1 = ite_col2 = len(cat) // 2
+                else:
+                    ite_col1 = (len(cat) + 1) // 2
+                    ite_col2 = len(cat) - ite_col1
+                with cola1:
+                    for ite in range(ite_col1):
+                        with st.container(border=True):
                             with st.container(border=True):
                                 st.markdown(
                                     f"""
                                         <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
-                                            {ite}
+                                            {cat[i]}
                                         </p>
                                         """,
                                     unsafe_allow_html=True,
                                 )
                             k = 0
-                            for reco, perc in local_recommendations[ite].items():
+                            for reco, perc in local_recommendations[cat[i]].items():
                                 col11a, col22b = st.columns([1, 4])
                                 with col11a:
-                                    if ite == "Comptes":
+                                    if cat[i] == "Comptes":
                                         img = "images/comptes"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Cartes":
+                                    if cat[i] == "Cartes":
                                         img = "images/cartes"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Financement immobilier":
+                                    if cat[i] == "Financement immobilier":
                                         img = "images/Financement immobilier"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Financement à la consommation":
+                                    if cat[i] == "Financement à la consommation":
                                         img = "images/financement à la consommation"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Assurance":
+                                    if cat[i] == "Assurance":
                                         img = "images/assurance"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Retraite & Prévoyance":
+                                    if cat[i] == "Retraite & Prévoyance":
                                         img = "images/retraite & Prévoyance"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Épargne & Placement":
-                                        img = "images/Épargne & Placement"
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Packs bancaires":
+                                    if cat[i] == "Packs bancaires":
                                         img = "images/packs bancaires"
                                         st.image(
                                             f"{img}.png",
@@ -1555,7 +1567,7 @@ if st.session_state.aff_content == True:
                                             disabled=True,
                                             label_visibility="hidden",
                                             width="stretch",
-                                            key={j},
+                                            key=f"a_{j}",
                                         )
                                     col2b, col3b = st.columns([2, 3])
                                     with col2b:
@@ -1574,7 +1586,7 @@ if st.session_state.aff_content == True:
                                             width="stretch",
                                             key=f"btn_b_{j}",
                                         )
-                                if k < len(local_recommendations[ite]) - 1:
+                                if k < len(local_recommendations[cat[i]]) - 1:
                                     st.markdown(
                                         """
                                                 <hr style="margin-top:5px; margin-bottom:5px;">
@@ -1584,580 +1596,65 @@ if st.session_state.aff_content == True:
                                     k = k + 1
                                 j = j + 1
                             i = i + 1
-
-    with st.container(border=True):
-        st.markdown(
-            f"""
-        <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
-        {"Recommandations basées sur les experts"}
-        </p>
-        """,
-            unsafe_allow_html=True,
-        )
-        if os.path.exists(expert_recommendations_output_file):
-            with open(expert_recommendations_output_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-
-            for item in data:
-                if item["product"] in categories["Comptes"]:
-                    expert_recommendations_comptes_categorie.append(item["product"])
-
-                if item["product"] in categories["Cartes"]:
-                    expert_recommendations_cartes_categorie.append(item["product"])
-
-                if item["product"] in categories["Financement immobilier"]:
-                    expert_recommendations_financement_immobilier_categorie.append(
-                        item["product"]
-                    )
-
-                if item["product"] in categories["Financement à la consommation"]:
-                    expert_recommendations_financement_à_la_consommation_categorie.append(
-                        item["product"]
-                    )
-
-                if item["product"] in categories["Assurance"]:
-                    expert_recommendations_assurance_categorie.append(item["product"])
-
-                if item["product"] in categories["Retraite & Prévoyance"]:
-                    expert_recommendations_retraite_et_prévoyance_categorie.append(
-                        item["product"]
-                    )
-
-                if item["product"] in categories["Épargne & Placement"]:
-                    expert_recommendations_epargne_et_placement_categorie.append(
-                        item["product"]
-                    )
-
-                if item["product"] in categories["Packs bancaires"]:
-                    expert_recommendations_packs_bancaires_categorie.append(
-                        item["product"]
-                    )
-
-            if expert_recommendations:
-                cat = []
-                j = 0
-                for categ, reco in expert_recommendations.items():
-                    if reco:
-                        cat.append(categ)
-                i = 0
-                for ite in cat:
-                    if i % 2 == 0:
-                        cols = st.columns([1, 1])  # crée deux colonnes
-                        col_dict = {f"col{i}": cols[0], f"col{i+1}": cols[1]}
-                    with col_dict[f"col{i}"]:
-                        with st.container(border=True, height="stretch"):
+                with colb1:
+                    for ite in range(ite_col2):
+                        with st.container(border=True):
                             with st.container(border=True):
                                 st.markdown(
                                     f"""
                                         <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
-                                            {ite}
+                                            {cat[i]}
                                         </p>
                                         """,
                                     unsafe_allow_html=True,
                                 )
                             k = 0
-                            for reco in expert_recommendations[ite]:
+                            for reco, perc in local_recommendations[cat[i]].items():
                                 col11a, col22b = st.columns([1, 4])
                                 with col11a:
-                                    if ite == "Comptes":
+                                    if cat[i] == "Comptes":
                                         img = "images/comptes"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Cartes":
+                                    if cat[i] == "Cartes":
                                         img = "images/cartes"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Financement immobilier":
+                                    if cat[i] == "Financement immobilier":
                                         img = "images/Financement immobilier"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Financement à la consommation":
+                                    if cat[i] == "Financement à la consommation":
                                         img = "images/financement à la consommation"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Assurance":
+                                    if cat[i] == "Assurance":
                                         img = "images/assurance"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Retraite & Prévoyance":
+                                    if cat[i] == "Retraite & Prévoyance":
                                         img = "images/retraite & Prévoyance"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Épargne & Placement":
-                                        img = "images/Épargne & Placement"
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
                                         st.image(
                                             f"{img}.png",
                                             width="stretch",
                                         )
-                                    if ite == "Packs bancaires":
-                                        img = "images/packs bancaires"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                with col22b:
-                                    st.markdown(
-                                        f"""
-                                            <p style='font-family:Arial; font-size:12px; font-weight:bold;'>
-                                                {reco}
-                                            </p>
-                                            """,
-                                        unsafe_allow_html=True,
-                                    )
-                                    if reco == "Produit - Compte chèque en DH":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Compte_chèque_en_DH}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Compte chèque en devises":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Compte_chèque_en_devises}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Compte sur carnet":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Compte_sur_carnet}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Carte basique":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Carte_basique}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Carte Visa":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Carte_Visa}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Carte Visa Premium":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Carte_Visa_Premium}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Carte Visa Elite":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Carte_Visa_Elite}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Carte Visa Infinite":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Carte_Visa_Infinite}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Crédit Immo avec garantie hypothécaire"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_Immo_avec_garantie_hypothécaire}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Crédit Immo avec garantie liquide"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_Immo_avec_garantie_liquide}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Crédit Immo avec remboursement in fine"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_Immo_avec_remboursement_in_fine}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Crédit Immo subventionné":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_Immo_subventionné}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Crédit à la consommation non affecté"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_à_la_consommation_non_affecté}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Crédit Auto":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Crédit_Auto}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Découvert":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Découvert}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Assurance décès invalidité adossée à un financement"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Assurance_décès_invalidité_adossée_à_un_financement}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Assurance décès toutes causes"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Assurance_décès_toutes_causes}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Multirisques bâtiment":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Multirisques_bâtiment}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Maladie complémentaire":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Maladie_complémentaire}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Retraite complémentaire":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Retraite_complémentaire}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if (
-                                        reco
-                                        == "Produit - Retraite complémentaire en UC"
-                                    ):
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Retraite_complémentaire_en_UC}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Épargne Éducation":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Épargne_Éducation}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Épargne Logement":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Épargne_Logement}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - OPCVM monétaires":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {OPCVM_monétaires}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - OPCVM obligataires":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {OPCVM_obligataires}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - OPCVM diversifiés":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {OPCVM_diversifiés}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - OPCVM actions":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {OPCVM_actions}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Pack bancaire basique":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Pack_bancaire_basique}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Pack bancaire étoffé":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Pack_bancaire_étoffé}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    if reco == "Produit - Compte à terme":
-                                        st.markdown(
-                                            f"""
-                                                <p style='font-family:Arial; font-size:12px;'>
-                                                    {Compte_à_terme}
-                                                </p>
-                                                """,
-                                            unsafe_allow_html=True,
-                                        )
-                                    col2b, col3b = st.columns([2, 3])
-                                    with col2b:
-                                        st.button(
-                                            "En savoir plus / Souscrire",
-                                            type="tertiary",
-                                            width="stretch",
-                                            key=f"btn_e_{j}",
-                                            on_click=switch_page_produit,
-                                            args=(reco,),
-                                        )
-                                    with col3b:
-                                        st.button(
-                                            "Estimer le coût / Obtenir un devis",
-                                            type="secondary",
-                                            width="stretch",
-                                            key=f"btn_g_{j}",
-                                        )
-                                if k < len(expert_recommendations[ite]) - 1:
-                                    st.markdown(
-                                        """
-                                                <hr style="margin-top:5px; margin-bottom:5px;">
-                                                """,
-                                        unsafe_allow_html=True,
-                                    )
-                                    k = k + 1
-                                j = j + 1
-                            i = i + 1
-
-    with st.container(border=True):
-        st.markdown(
-            f"""
-                    <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
-                        {"Recommandations basées sur le marché bancaire"}
-                    </p>
-                    """,
-            unsafe_allow_html=True,
-        )
-        if os.path.exists(meta_recommendations_output_file):
-            with open(meta_recommendations_output_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-
-            for item in data:
-                if item["product"] in categories["Comptes"]:
-                    meta_recommendations_comptes_categorie[item["product"]] = item[
-                        "percentage"
-                    ]
-
-                if item["product"] in categories["Cartes"]:
-                    meta_recommendations_cartes_categorie[item["product"]] = item[
-                        "percentage"
-                    ]
-
-                if item["product"] in categories["Financement immobilier"]:
-                    meta_recommendations_financement_immobilier_categorie[
-                        item["product"]
-                    ] = item["percentage"]
-
-                if item["product"] in categories["Financement à la consommation"]:
-                    meta_recommendations_financement_à_la_consommation_categorie[
-                        item["product"]
-                    ] = item["percentage"]
-
-                if item["product"] in categories["Assurance"]:
-                    meta_recommendations_assurance_categorie[item["product"]] = item[
-                        "percentage"
-                    ]
-
-                if item["product"] in categories["Retraite & Prévoyance"]:
-                    meta_recommendations_retraite_et_prévoyance_categorie[
-                        item["product"]
-                    ] = item["percentage"]
-
-                if item["product"] in categories["Épargne & Placement"]:
-                    meta_recommendations_epargne_et_placement_categorie[
-                        item["product"]
-                    ] = item["percentage"]
-
-                if item["product"] in categories["Packs bancaires"]:
-                    meta_recommendations_packs_bancaires_categorie[item["product"]] = (
-                        item["percentage"]
-                    )
-
-            if meta_recommendations:
-                cat = []
-                j = 0
-                for categ, reco in meta_recommendations.items():
-                    if reco:
-                        cat.append(categ)
-                i = 0
-                for ite in cat:
-                    if i % 2 == 0:
-                        cols = st.columns([1, 1])  # crée deux colonnes
-                        col_dict = {f"col{i}": cols[0], f"col{i+1}": cols[1]}
-                    with col_dict[f"col{i}"]:
-                        with st.container(border=True, height="stretch"):
-                            with st.container(border=True):
-                                st.markdown(
-                                    f"""
-                                        <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
-                                            {ite}
-                                        </p>
-                                        """,
-                                    unsafe_allow_html=True,
-                                )
-                            k = 0
-                            for reco, perc in meta_recommendations[ite].items():
-                                col11a, col22b = st.columns([1, 4])
-                                with col11a:
-                                    if ite == "Comptes":
-                                        img = "images/comptes"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Cartes":
-                                        img = "images/cartes"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Financement immobilier":
-                                        img = "images/Financement immobilier"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Financement à la consommation":
-                                        img = "images/financement à la consommation"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Assurance":
-                                        img = "images/assurance"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Retraite & Prévoyance":
-                                        img = "images/retraite & Prévoyance"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Épargne & Placement":
-                                        img = "images/Épargne & Placement"
-                                        st.image(
-                                            f"{img}.png",
-                                            width="stretch",
-                                        )
-                                    if ite == "Packs bancaires":
+                                    if cat[i] == "Packs bancaires":
                                         img = "images/packs bancaires"
                                         st.image(
                                             f"{img}.png",
@@ -2485,7 +1982,7 @@ if st.session_state.aff_content == True:
                                             disabled=True,
                                             label_visibility="hidden",
                                             width="stretch",
-                                            key=f"a_{j}",
+                                            key=f"b_{j}",
                                         )
                                     col2b, col3b = st.columns([2, 3])
                                     with col2b:
@@ -2504,7 +2001,1758 @@ if st.session_state.aff_content == True:
                                             width="stretch",
                                             key=f"btn_d_{j}",
                                         )
-                                if k < len(meta_recommendations[ite]) - 1:
+                                if k < len(local_recommendations[cat[i]]) - 1:
+                                    st.markdown(
+                                        """
+                                                <hr style="margin-top:5px; margin-bottom:5px;">
+                                                """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    k = k + 1
+                                j = j + 1
+                            i = i + 1
+    with st.container(border=True):
+        st.markdown(
+            f"""
+        <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
+        {"Recommandations basées sur les experts"}
+        </p>
+        """,
+            unsafe_allow_html=True,
+        )
+        if os.path.exists(expert_recommendations_output_file):
+            with open(expert_recommendations_output_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            for item in data:
+                if item["product"] in categories["Comptes"]:
+                    expert_recommendations_comptes_categorie.append(item["product"])
+
+                if item["product"] in categories["Cartes"]:
+                    expert_recommendations_cartes_categorie.append(item["product"])
+
+                if item["product"] in categories["Financement immobilier"]:
+                    expert_recommendations_financement_immobilier_categorie.append(
+                        item["product"]
+                    )
+
+                if item["product"] in categories["Financement à la consommation"]:
+                    expert_recommendations_financement_à_la_consommation_categorie.append(
+                        item["product"]
+                    )
+
+                if item["product"] in categories["Assurance"]:
+                    expert_recommendations_assurance_categorie.append(item["product"])
+
+                if item["product"] in categories["Retraite & Prévoyance"]:
+                    expert_recommendations_retraite_et_prévoyance_categorie.append(
+                        item["product"]
+                    )
+
+                if item["product"] in categories["Épargne & Placement"]:
+                    expert_recommendations_epargne_et_placement_categorie.append(
+                        item["product"]
+                    )
+
+                if item["product"] in categories["Packs bancaires"]:
+                    expert_recommendations_packs_bancaires_categorie.append(
+                        item["product"]
+                    )
+
+            if expert_recommendations:
+                cat = []
+                j = 0
+                for categ, reco in expert_recommendations.items():
+                    if reco:
+                        cat.append(categ)
+                i = 0
+                ite_col1 = 0
+                ite_col2 = 0
+                cola1, colb1 = st.columns([1, 1])
+                if len(cat) % 2 == 0:
+                    ite_col1 = ite_col2 = len(cat) // 2
+                else:
+                    ite_col1 = (len(cat) + 1) // 2
+                    ite_col2 = len(cat) - ite_col1
+                with cola1:
+                    for ite in range(ite_col1):
+                        with st.container(border=True):
+                            with st.container(border=True):
+                                st.markdown(
+                                    f"""
+                                        <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
+                                            {cat[i]}
+                                        </p>
+                                        """,
+                                    unsafe_allow_html=True,
+                                )
+                            k = 0
+                            for reco in expert_recommendations[cat[i]]:
+                                col11a, col22b = st.columns([1, 4])
+                                with col11a:
+                                    if cat[i] == "Comptes":
+                                        img = "images/comptes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Cartes":
+                                        img = "images/cartes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement immobilier":
+                                        img = "images/Financement immobilier"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement à la consommation":
+                                        img = "images/financement à la consommation"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Assurance":
+                                        img = "images/assurance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Retraite & Prévoyance":
+                                        img = "images/retraite & Prévoyance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Packs bancaires":
+                                        img = "images/packs bancaires"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                with col22b:
+                                    st.markdown(
+                                        f"""
+                                            <p style='font-family:Arial; font-size:12px; font-weight:bold;'>
+                                                {reco}
+                                            </p>
+                                            """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    if reco == "Produit - Compte chèque en DH":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_DH}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte chèque en devises":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_devises}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte sur carnet":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_sur_carnet}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Premium":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Premium}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Elite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Elite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Infinite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Infinite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie hypothécaire"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_hypothécaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie liquide"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_liquide}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec remboursement in fine"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_remboursement_in_fine}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Immo subventionné":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_subventionné}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit à la consommation non affecté"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_à_la_consommation_non_affecté}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Auto":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Auto}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Découvert":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Découvert}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès invalidité adossée à un financement"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_invalidité_adossée_à_un_financement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès toutes causes"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_toutes_causes}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Multirisques bâtiment":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Multirisques_bâtiment}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Maladie complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Maladie_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Retraite complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Retraite complémentaire en UC"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire_en_UC}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Éducation":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Éducation}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Logement":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Logement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM monétaires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_monétaires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM obligataires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_obligataires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM diversifiés":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_diversifiés}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM actions":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_actions}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire étoffé":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_étoffé}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte à terme":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_à_terme}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    col1111111, col2222222, col3333333 = st.columns(
+                                        [2, 2, 0.5]
+                                    )
+                                    col2b, col3b = st.columns([2, 3])
+                                    with col2b:
+                                        st.button(
+                                            "En savoir plus / Souscrire",
+                                            type="tertiary",
+                                            width="stretch",
+                                            key=f"btn_e_{j}",
+                                            on_click=switch_page_produit,
+                                            args=(reco,),
+                                        )
+                                    with col3b:
+                                        st.button(
+                                            "Estimer le coût / Obtenir un devis",
+                                            type="secondary",
+                                            width="stretch",
+                                            key=f"btn_g_{j}",
+                                        )
+                                if k < len(expert_recommendations[cat[i]]) - 1:
+                                    st.markdown(
+                                        """
+                                                <hr style="margin-top:5px; margin-bottom:5px;">
+                                                """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    k = k + 1
+                                j = j + 1
+                            i = i + 1
+                with colb1:
+                    for ite in range(ite_col2):
+                        with st.container(border=True):
+                            with st.container(border=True):
+                                st.markdown(
+                                    f"""
+                                        <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
+                                            {cat[i]}
+                                        </p>
+                                        """,
+                                    unsafe_allow_html=True,
+                                )
+                            k = 0
+                            for reco in expert_recommendations[cat[i]]:
+                                col11a, col22b = st.columns([1, 4])
+                                with col11a:
+                                    if cat[i] == "Comptes":
+                                        img = "images/comptes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Cartes":
+                                        img = "images/cartes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement immobilier":
+                                        img = "images/Financement immobilier"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement à la consommation":
+                                        img = "images/financement à la consommation"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Assurance":
+                                        img = "images/assurance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Retraite & Prévoyance":
+                                        img = "images/retraite & Prévoyance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Packs bancaires":
+                                        img = "images/packs bancaires"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                with col22b:
+                                    st.markdown(
+                                        f"""
+                                            <p style='font-family:Arial; font-size:12px; font-weight:bold;'>
+                                                {reco}
+                                            </p>
+                                            """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    if reco == "Produit - Compte chèque en DH":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_DH}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte chèque en devises":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_devises}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte sur carnet":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_sur_carnet}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Premium":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Premium}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Elite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Elite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Infinite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Infinite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie hypothécaire"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_hypothécaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie liquide"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_liquide}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec remboursement in fine"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_remboursement_in_fine}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Immo subventionné":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_subventionné}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit à la consommation non affecté"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_à_la_consommation_non_affecté}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Auto":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Auto}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Découvert":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Découvert}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès invalidité adossée à un financement"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_invalidité_adossée_à_un_financement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès toutes causes"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_toutes_causes}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Multirisques bâtiment":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Multirisques_bâtiment}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Maladie complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Maladie_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Retraite complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Retraite complémentaire en UC"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire_en_UC}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Éducation":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Éducation}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Logement":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Logement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM monétaires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_monétaires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM obligataires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_obligataires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM diversifiés":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_diversifiés}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM actions":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_actions}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire étoffé":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_étoffé}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte à terme":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_à_terme}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    col1111111, col2222222, col3333333 = st.columns(
+                                        [2, 2, 0.5]
+                                    )
+                                    col2b, col3b = st.columns([2, 3])
+                                    with col2b:
+                                        st.button(
+                                            "En savoir plus / Souscrire",
+                                            type="tertiary",
+                                            width="stretch",
+                                            key=f"btn_f_{j}",
+                                            on_click=switch_page_produit,
+                                            args=(reco,),
+                                        )
+                                    with col3b:
+                                        st.button(
+                                            "Estimer le coût / Obtenir un devis",
+                                            type="secondary",
+                                            width="stretch",
+                                            key=f"btn_k_{j}",
+                                        )
+                                if k < len(expert_recommendations[cat[i]]) - 1:
+                                    st.markdown(
+                                        """
+                                                <hr style="margin-top:5px; margin-bottom:5px;">
+                                                """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    k = k + 1
+                                j = j + 1
+                            i = i + 1
+
+    with st.container(border=True):
+        st.markdown(
+            f"""
+                    <p style='font-family:Arial; font-size:24px; font-weight:bold;'>
+                        {"Recommandations basées sur le marché bancaire"}
+                    </p>
+                    """,
+            unsafe_allow_html=True,
+        )
+        if os.path.exists(meta_recommendations_output_file):
+            with open(meta_recommendations_output_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            for item in data:
+                if item["product"] in categories["Comptes"]:
+                    meta_recommendations_comptes_categorie[item["product"]] = item[
+                        "percentage"
+                    ]
+
+                if item["product"] in categories["Cartes"]:
+                    meta_recommendations_cartes_categorie[item["product"]] = item[
+                        "percentage"
+                    ]
+
+                if item["product"] in categories["Financement immobilier"]:
+                    meta_recommendations_financement_immobilier_categorie[
+                        item["product"]
+                    ] = item["percentage"]
+
+                if item["product"] in categories["Financement à la consommation"]:
+                    meta_recommendations_financement_à_la_consommation_categorie[
+                        item["product"]
+                    ] = item["percentage"]
+
+                if item["product"] in categories["Assurance"]:
+                    meta_recommendations_assurance_categorie[item["product"]] = item[
+                        "percentage"
+                    ]
+
+                if item["product"] in categories["Retraite & Prévoyance"]:
+                    meta_recommendations_retraite_et_prévoyance_categorie[
+                        item["product"]
+                    ] = item["percentage"]
+
+                if item["product"] in categories["Épargne & Placement"]:
+                    meta_recommendations_epargne_et_placement_categorie[
+                        item["product"]
+                    ] = item["percentage"]
+
+                if item["product"] in categories["Packs bancaires"]:
+                    meta_recommendations_packs_bancaires_categorie[item["product"]] = (
+                        item["percentage"]
+                    )
+
+            if meta_recommendations:
+                cat = []
+                j = 0
+                for categ, reco in meta_recommendations.items():
+                    if reco:
+                        cat.append(categ)
+                i = 0
+                ite_col1 = 0
+                ite_col2 = 0
+                cola1, colb1 = st.columns([1, 1])
+                if len(cat) % 2 == 0:
+                    ite_col1 = ite_col2 = len(cat) // 2
+                else:
+                    ite_col1 = (len(cat) + 1) // 2
+                    ite_col2 = len(cat) - ite_col1
+                with cola1:
+                    for ite in range(ite_col1):
+                        with st.container(border=True):
+                            with st.container(border=True):
+                                st.markdown(
+                                    f"""
+                                        <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
+                                            {cat[i]}
+                                        </p>
+                                        """,
+                                    unsafe_allow_html=True,
+                                )
+                            k = 0
+                            for reco, perc in meta_recommendations[cat[i]].items():
+                                col11a, col22b = st.columns([1, 4])
+                                with col11a:
+                                    if cat[i] == "Comptes":
+                                        img = "images/comptes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Cartes":
+                                        img = "images/cartes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement immobilier":
+                                        img = "images/Financement immobilier"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement à la consommation":
+                                        img = "images/financement à la consommation"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Assurance":
+                                        img = "images/assurance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Retraite & Prévoyance":
+                                        img = "images/retraite & Prévoyance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Packs bancaires":
+                                        img = "images/packs bancaires"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                with col22b:
+                                    st.markdown(
+                                        f"""
+                                            <p style='font-family:Arial; font-size:12px; font-weight:bold;'>
+                                                {reco}
+                                            </p>
+                                            """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    if reco == "Produit - Compte chèque en DH":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_DH}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte chèque en devises":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_devises}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte sur carnet":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_sur_carnet}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Premium":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Premium}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Elite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Elite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Infinite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Infinite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie hypothécaire"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_hypothécaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie liquide"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_liquide}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec remboursement in fine"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_remboursement_in_fine}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Immo subventionné":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_subventionné}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit à la consommation non affecté"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_à_la_consommation_non_affecté}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Auto":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Auto}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Découvert":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Découvert}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès invalidité adossée à un financement"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_invalidité_adossée_à_un_financement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès toutes causes"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_toutes_causes}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Multirisques bâtiment":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Multirisques_bâtiment}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Maladie complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Maladie_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Retraite complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Retraite complémentaire en UC"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire_en_UC}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Éducation":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Éducation}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Logement":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Logement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM monétaires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_monétaires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM obligataires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_obligataires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM diversifiés":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_diversifiés}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM actions":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_actions}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire étoffé":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_étoffé}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte à terme":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_à_terme}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    col1111111, col2222222, col3333333 = st.columns(
+                                        [2, 2, 0.5]
+                                    )
+                                    with col1111111:
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    Adéquation en % :
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    with col2222222:
+                                        st.slider(
+                                            label="Homeee",
+                                            min_value=0.0,
+                                            max_value=100.0,
+                                            value=float(perc),
+                                            step=0.1,
+                                            disabled=True,
+                                            label_visibility="hidden",
+                                            width="stretch",
+                                            key=f"c_{j}",
+                                        )
+                                    col2b, col3b = st.columns([2, 3])
+                                    with col2b:
+                                        st.button(
+                                            "En savoir plus / Souscrire",
+                                            type="tertiary",
+                                            width="stretch",
+                                            key=f"btn_m_{j}",
+                                            on_click=switch_page_produit,
+                                            args=(reco,),
+                                        )
+                                    with col3b:
+                                        st.button(
+                                            "Estimer le coût / Obtenir un devis",
+                                            type="secondary",
+                                            width="stretch",
+                                            key=f"btn_n_{j}",
+                                        )
+                                if k < len(meta_recommendations[cat[i]]) - 1:
+                                    st.markdown(
+                                        """
+                                                <hr style="margin-top:5px; margin-bottom:5px;">
+                                                """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    k = k + 1
+                                j = j + 1
+                            i = i + 1
+                with colb1:
+                    for ite in range(ite_col2):
+                        with st.container(border=True):
+                            with st.container(border=True):
+                                st.markdown(
+                                    f"""
+                                        <p style='font-family:Arial; font-size:14px; font-weight:bold;'>
+                                            {cat[i]}
+                                        </p>
+                                        """,
+                                    unsafe_allow_html=True,
+                                )
+                            k = 0
+                            for reco, perc in meta_recommendations[cat[i]].items():
+                                col11a, col22b = st.columns([1, 4])
+                                with col11a:
+                                    if cat[i] == "Comptes":
+                                        img = "images/comptes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Cartes":
+                                        img = "images/cartes"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement immobilier":
+                                        img = "images/Financement immobilier"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Financement à la consommation":
+                                        img = "images/financement à la consommation"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Assurance":
+                                        img = "images/assurance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Retraite & Prévoyance":
+                                        img = "images/retraite & Prévoyance"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Épargne & Placement":
+                                        img = "images/Épargne et Placement"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                    if cat[i] == "Packs bancaires":
+                                        img = "images/packs bancaires"
+                                        st.image(
+                                            f"{img}.png",
+                                            width="stretch",
+                                        )
+                                with col22b:
+                                    st.markdown(
+                                        f"""
+                                            <p style='font-family:Arial; font-size:12px; font-weight:bold;'>
+                                                {reco}
+                                            </p>
+                                            """,
+                                        unsafe_allow_html=True,
+                                    )
+                                    if reco == "Produit - Compte chèque en DH":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_DH}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte chèque en devises":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_chèque_en_devises}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte sur carnet":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_sur_carnet}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Premium":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Premium}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Elite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Elite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Carte Visa Infinite":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Carte_Visa_Infinite}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie hypothécaire"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_hypothécaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec garantie liquide"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_garantie_liquide}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit Immo avec remboursement in fine"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_avec_remboursement_in_fine}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Immo subventionné":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Immo_subventionné}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Crédit à la consommation non affecté"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_à_la_consommation_non_affecté}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Crédit Auto":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Crédit_Auto}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Découvert":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Découvert}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès invalidité adossée à un financement"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_invalidité_adossée_à_un_financement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Assurance décès toutes causes"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Assurance_décès_toutes_causes}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Multirisques bâtiment":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Multirisques_bâtiment}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Maladie complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Maladie_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Retraite complémentaire":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if (
+                                        reco
+                                        == "Produit - Retraite complémentaire en UC"
+                                    ):
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Retraite_complémentaire_en_UC}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Éducation":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Éducation}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Épargne Logement":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Épargne_Logement}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM monétaires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_monétaires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM obligataires":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_obligataires}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM diversifiés":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_diversifiés}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - OPCVM actions":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {OPCVM_actions}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire basique":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_basique}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Pack bancaire étoffé":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Pack_bancaire_étoffé}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    if reco == "Produit - Compte à terme":
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    {Compte_à_terme}
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    col1111111, col2222222, col3333333 = st.columns(
+                                        [2, 2, 0.5]
+                                    )
+                                    with col1111111:
+                                        st.markdown(
+                                            f"""
+                                                <p style='font-family:Arial; font-size:12px;'>
+                                                    Adéquation en % :
+                                                </p>
+                                                """,
+                                            unsafe_allow_html=True,
+                                        )
+                                    with col2222222:
+                                        st.slider(
+                                            label="Homeeee",
+                                            min_value=0.0,
+                                            max_value=100.0,
+                                            value=float(perc),
+                                            step=0.1,
+                                            disabled=True,
+                                            label_visibility="hidden",
+                                            width="stretch",
+                                            key=f"d_{j}",
+                                        )
+                                    col2b, col3b = st.columns([2, 3])
+                                    with col2b:
+                                        st.button(
+                                            "En savoir plus / Souscrire",
+                                            type="tertiary",
+                                            width="stretch",
+                                            key=f"btn_x_{j}",
+                                            on_click=switch_page_produit,
+                                            args=(reco,),
+                                        )
+                                    with col3b:
+                                        st.button(
+                                            "Estimer le coût / Obtenir un devis",
+                                            type="secondary",
+                                            width="stretch",
+                                            key=f"btn_y_{j}",
+                                        )
+                                if k < len(meta_recommendations[cat[i]]) - 1:
                                     st.markdown(
                                         """
                                                 <hr style="margin-top:5px; margin-bottom:5px;">
