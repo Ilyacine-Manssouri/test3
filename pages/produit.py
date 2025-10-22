@@ -329,7 +329,7 @@ with st.container(border=True):
                 cols = st.columns([1, 1])  # crée deux colonnes
                 col_dict = {f"col{i}": cols[0], f"col{i+1}": cols[1]}
             with col_dict[f"col{i}"]:
-                if cout_list[ite] is not None:
+                if cout_list[ite]:
                     text_part1 = cout_list[ite]
                     text_part2 = ""
                 else:
