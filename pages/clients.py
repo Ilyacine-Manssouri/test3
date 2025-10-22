@@ -1041,7 +1041,7 @@ if st.session_state.aff_content == True:
             r1 = np.arange(len(months))
             r2 = r1 + bar_width
 
-            fig, ax = plt.subplots(figsize=(100, 60))
+            fig, ax = plt.subplots(figsize=(10, 6))
 
             # Couleurs harmonieuses
             income_color = "#4CAF50"  # vert doux
